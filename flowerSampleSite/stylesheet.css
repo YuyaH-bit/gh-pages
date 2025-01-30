@@ -71,6 +71,7 @@ li {
 }
 .js-active #nav {
   top: 0;
+  display: block;
 }
 .hamburger {
   position: fixed;
